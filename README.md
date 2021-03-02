@@ -6,7 +6,10 @@ ion radiation, xrays, mercury vapour, the tec-1 ---- danger, danger, Will Robins
 ## redesign project to make safe
 * photo diode on NE
 * no looking into peep hole as there is x-rays, put shielding 
-* replace or eliminate mercury vapour
+* eliminate mercury vapour by replacing vacuum system, 
+* eg https://www.instructables.com/Personal-Research-Project-Into-Ultra-High-Vacuum-P/
+* https://groups.google.com/g/diybio/c/CDIE0M9UGhs/m/Xi9fYgmfAwAJ?pli=1
+* 
 
 
 
