@@ -22,7 +22,7 @@ ion radiation, xrays, mercury vapour, the tec-1 ---- danger, danger, Will Robins
 
 
 
-# # Laboratory Manual: Construction and Operation of a Safe Electrostatic Particle Accelerator
+# Laboratory Manual: Construction and Operation of a Safe Electrostatic Particle Accelerator
 
 ## Safety Warning
 This manual describes the construction and operation of a high-energy particle accelerator. Only attempt this project under proper supervision and with appropriate safety measures in place. High voltage and radiation hazards are present.
