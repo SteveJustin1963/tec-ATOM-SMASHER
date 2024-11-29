@@ -1,4 +1,4 @@
-# tec-ATOM-SMASHER
+ 
 Atom smasher using a simple particle accelerator
 
 "Warning, warning, ion radiation! xrays! mercury vapour! and an old Tec-1 ---- danger, danger, Will Robinson! Danger! "
